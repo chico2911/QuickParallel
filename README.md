@@ -8,7 +8,7 @@ Nos [anexos](https://github.com/chico2911/QuickParallel/blop/master/Docs/anexos.
 Na seguinte imagem podemos ver uma comparação entre a variação dos tempos de execução nas diferentes máquinas utilizadas. Os valores apresentados são em segundos(y), bem como o array ordenado é o [array1](https://github.com/chico2911/QuickParallel/blop/master/Inputs/array1.txt) que conta com 500k entradas.
 
 <p align="center">
-   <img width="510" height="159" src="https://github.com/chico2911/Civere/blob/master/Docs/graph.jpg">
+   <img width="510" height="159" src="https://github.com/chico2911/QuickParallel/blob/master/Docs/graph.jpg">
 </p>
 
 ### [Relatório](https://github.com/chico2911/QuickParallel/blop/master/Docs/relatorio_quicksort_a85367_a84092.pdf)
